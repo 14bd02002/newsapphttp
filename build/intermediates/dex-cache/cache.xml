@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\Chrome\Downloads\android_java_newsapp_http-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="E:\Chrome\Downloads\android_java_newsapp_http-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_9de434ba0e6d6b7e421c475fcb1295842d09f7e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Chrome\Downloads\android_java_newsapp_http-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="423e51908d0831df336b47a3e01c4cfeb05939b8">
+        <dex dex="E:\Chrome\Downloads\android_java_newsapp_http-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_8d112debcfd99a03f14b482ddff297c5eb0acd11\classes.dex" />
+    </item>
+
+</items>
